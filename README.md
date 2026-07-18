@@ -1,5 +1,16 @@
 # SecSCan
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-black?logo=next.js)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI-green?logo=openai)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+</p>
+
 > **AI-Powered Automated Web Application Security Assessment Framework**
 
 SecSCan is an intelligent web application security assessment framework developed as a senior graduation project. It automates the penetration testing workflow by combining traditional security tools with AI-assisted analysis to perform comprehensive reconnaissance, crawling, technology fingerprinting, and vulnerability assessment.
