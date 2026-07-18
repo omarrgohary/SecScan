@@ -29,6 +29,10 @@ The framework is designed to reduce manual effort during security assessments wh
 
 # 📸 Screenshots
 
+## Home Page
+> **<<img width="886" height="442" alt="image" src="https://github.com/user-attachments/assets/a7f27962-00fc-44e6-b5e0-7030361df9f8" />
+" />**
+
 ## Dashboard
 
 > **<img width="1600" height="1100" alt="WhatsApp Image 2026-07-01 at 12 54 38 AM" src="https://github.com/user-attachments/assets/4acd18c6-1b49-4413-b389-fc270f4fd9ba" />**
@@ -39,13 +43,12 @@ The framework is designed to reduce manual effort during security assessments wh
 ## Reconnaissance Results
 
 > **<img width="1280" height="975" alt="subdomain" src="https://github.com/user-attachments/assets/115665fe-9b4d-4476-b918-7a3f2990a37d" />
+<img width="1280" height="1192" alt="tech" src="https://github.com/user-attachments/assets/901debfb-8958-4ca6-8a80-70e3ca9d7545" />
+<img width="722" height="699" alt="image" src="https://github.com/user-attachments/assets/e84514ee-afc2-40fc-9fa0-f1e28177d8e5" />
+<img width="1258" height="1280" alt="waf" src="https://github.com/user-attachments/assets/c9bef663-11e0-431e-bbd4-3d0fc6d4f692" />
+<img width="1271" height="1280" alt="port" src="https://github.com/user-attachments/assets/acbacf8c-1e37-4807-abdf-c8c65fa9affe" />**
 
 
-**
-
-```markdown
-![Recon Results](images/recon-results.png)
-```
 
 ---
 
