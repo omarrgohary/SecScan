@@ -3,10 +3,8 @@
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
 ![Next.js](https://img.shields.io/badge/Next.js-Frontend-black?logo=next.js)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
-![OpenAI](https://img.shields.io/badge/OpenAI-AI-green?logo=openai)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 </p>
