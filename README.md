@@ -36,64 +36,89 @@ The framework is designed to reduce manual effort during security assessments wh
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 ## Home Page
-> **<<img width="886" height="442" alt="image" src="https://github.com/user-attachments/assets/a7f27962-00fc-44e6-b5e0-7030361df9f8" />
-" />**
 
-## Verify Ownership
-<img width="1280" height="1196" alt="add" src="https://github.com/user-attachments/assets/c3c40aaf-fc0e-4a3d-8110-569540f904b1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7f27962-00fc-44e6-b5e0-7030361df9f8" width="90%">
+</p>
 
+---
+
+## Domain Ownership Verification
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3c40aaf-fc0e-4a3d-8110-569540f904b1" width="75%">
+</p>
+
+---
 
 ## Dashboard
 
-> **<img width="1600" height="1100" alt="WhatsApp Image 2026-07-01 at 12 54 38 AM" src="https://github.com/user-attachments/assets/4acd18c6-1b49-4413-b389-fc270f4fd9ba" />**
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4acd18c6-1b49-4413-b389-fc270f4fd9ba" width="90%">
+</p>
 
 ---
 
 ## Reconnaissance Results
 
-> **<img width="1280" height="975" alt="subdomain" src="https://github.com/user-attachments/assets/115665fe-9b4d-4476-b918-7a3f2990a37d" />
-<img width="1280" height="1192" alt="tech" src="https://github.com/user-attachments/assets/901debfb-8958-4ca6-8a80-70e3ca9d7545" />
-<img width="722" height="699" alt="image" src="https://github.com/user-attachments/assets/e84514ee-afc2-40fc-9fa0-f1e28177d8e5" />
-<img width="1258" height="1280" alt="waf" src="https://github.com/user-attachments/assets/c9bef663-11e0-431e-bbd4-3d0fc6d4f692" />
-<img width="1271" height="1280" alt="port" src="https://github.com/user-attachments/assets/acbacf8c-1e37-4807-abdf-c8c65fa9affe" />**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/115665fe-9b4d-4476-b918-7a3f2990a37d" width="48%">
+  <img src="https://github.com/user-attachments/assets/901debfb-8958-4ca6-8a80-70e3ca9d7545" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e84514ee-afc2-40fc-9fa0-f1e28177d8e5" width="35%">
+  <img src="https://github.com/user-attachments/assets/c9bef663-11e0-431e-bbd4-3d0fc6d4f692" width="35%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/acbacf8c-1e37-4807-abdf-c8c65fa9affe" width="60%">
+</p>
 
 ---
 
 ## Crawling Results
 
-> **<img width="1600" height="1255" alt="ent" src="https://github.com/user-attachments/assets/78202523-0177-419d-8dd7-b569635caa31" />
-<img width="1280" height="1194" alt="ent2" src="https://github.com/user-attachments/assets/1ff52928-b9be-4117-a38a-a83a161f18e8" />
-<img width="1268" height="1280" alt="crawurl" src="https://github.com/user-attachments/assets/30a47e10-ec37-4a96-b8ae-07016d95637f" />
-<img width="1280" height="499" alt="auth" src="https://github.com/user-attachments/assets/2008f6af-111b-4b03-be19-62b1a85b6353" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78202523-0177-419d-8dd7-b569635caa31" width="48%">
+  <img src="https://github.com/user-attachments/assets/1ff52928-b9be-4117-a38a-a83a161f18e8" width="48%">
+</p>
 
-**
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30a47e10-ec37-4a96-b8ae-07016d95637f" width="48%">
+  <img src="https://github.com/user-attachments/assets/2008f6af-111b-4b03-be19-62b1a85b6353" width="48%">
+</p>
 
 ---
 
 ## Vulnerability Assessment
 
-> **<img width="886" height="862" alt="image" src="https://github.com/user-attachments/assets/977124bd-4af2-4866-b58b-0776931b4a15" />
-<img width="886" height="852" alt="image" src="https://github.com/user-attachments/assets/5a5cdcac-6cee-4c64-9c46-a0737bd0017c" />
-<img width="886" height="804" alt="image" src="https://github.com/user-attachments/assets/0c270fcd-bb84-471d-8f16-86ab85172c50" />
-
-**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/977124bd-4af2-4866-b58b-0776931b4a15" width="32%">
+  <img src="https://github.com/user-attachments/assets/5a5cdcac-6cee-4c64-9c46-a0737bd0017c" width="32%">
+  <img src="https://github.com/user-attachments/assets/0c270fcd-bb84-471d-8f16-86ab85172c50" width="32%">
+</p>
 
 ---
 
-## Generated Report
+## Generated Security Report
 
-> ** <img width="632" height="566" alt="image" src="https://github.com/user-attachments/assets/8d392a8f-d9ed-4472-8eb5-a32d17c25ce9" />
-> <img width="886" height="310" alt="image" src="https://github.com/user-attachments/assets/3be94bbe-42ea-4015-879a-9baa791a8618" />
-<img width="1314" height="1197" alt="3c516232-d0a2-4944-9a13-36ac4db73302" src="https://github.com/user-attachments/assets/4ebfd5b8-b825-46de-b253-9aa651204999" />
-<img width="622" height="310" alt="image" src="https://github.com/user-attachments/assets/68b33010-04fc-409d-9c2d-d2ab0e0c1a51" />
-<img width="667" height="446" alt="image" src="https://github.com/user-attachments/assets/7f811ce6-3386-4e16-b38b-623b5d16c83d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d392a8f-d9ed-4472-8eb5-a32d17c25ce9" width="45%">
+  <img src="https://github.com/user-attachments/assets/3be94bbe-42ea-4015-879a-9baa791a8618" width="45%">
+</p>
 
-**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ebfd5b8-b825-46de-b253-9aa651204999" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68b33010-04fc-409d-9c2d-d2ab0e0c1a51" width="45%">
+  <img src="https://github.com/user-attachments/assets/7f811ce6-3386-4e16-b38b-623b5d16c83d" width="45%">
+</p>
 
 
 ---
