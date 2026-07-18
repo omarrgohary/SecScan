@@ -397,10 +397,27 @@ Always obtain explicit permission before performing security testing against any
 
 **Omar El Gohary**
 
-Computer Engineering Graduate • Penetration Tester • Cybersecurity Researcher
+Computer Engineering Graduate • Penetration Tester 
 
 - LinkedIn: *https://linkedin.com/in/omarelgohary2003/*
 - GitHub: *https://github.com/omarrgohary*
+
+**Hazem Osama**
+
+Computer Engineering Graduate • Web Developer  
+
+- LinkedIn: *https://www.linkedin.com/in/hazem-osama25/*
+- GitHub: *https://github.com/Hazem-osos/*
+
+**Youssef Mohamed**
+
+Computer Engineering Graduate • AI Developer  
+
+- LinkedIn: *https://www.linkedin.com/in/yossifmohamed/*
+
+**Omar Adel**
+
+Computer Engineering Graduate • Cybersecurity Researcher   
 
 ---
 
